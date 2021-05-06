@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Information">
+    <EditTextPreference
+        android:dialogTitle="Change Name"
+        android:dialogMessage="Enter new name"
+        android:key="name_key"
+        android:inputType="text"
+        android:title="Change Name"
+        android:summary="Touch here to change name">
+
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:dialogTitle="Change Number"
+        android:dialogMessage="Enter new number"
+        android:key="no_key"
+        android:inputType="number"
+        android:title="Change Number"
+        android:summary="Touch here to change number">
+
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:dialogTitle="Change Password"
+        android:dialogMessage="Enter new password"
+        android:key="password_key"
+        android:inputType="textWebPassword"
+        android:title="Change Password"
+        android:summary="Touch here to change password">
+
+    </EditTextPreference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Preference">
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="preference_key"
+        android:title="Change preferences"
+        android:summary="Click to change the preferences">
+
+    </CheckBoxPreference>
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

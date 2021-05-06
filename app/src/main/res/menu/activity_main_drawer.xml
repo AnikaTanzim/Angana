@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/settings"
+            android:title="সেটিংস" />
+        <item
+            android:id="@+id/preferences"
+            android:icon="@drawable/preference_android_app"
+            android:title="প্রেফারেন্সেস" />
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/info"
+            android:title="ক্রেডিটস" />
+    </group>
+
+
+</menu>

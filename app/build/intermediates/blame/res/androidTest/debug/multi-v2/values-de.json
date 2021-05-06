@@ -1,0 +1,162 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Lenovo\\Downloads\\Angonaa-20180622T160704Z-001\\Angonaa\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.2.0.aar\\5da8594a4e85142c29a973a2d779c136\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "294,407,501,582,678,774,882,964,1043,1123,1206,1304,1402,1505,1610,1686,1785,1882,1984,2113,2240,2368,2464,2555,2661",
+                        "endColumns": "112,93,80,95,95,107,81,78,79,82,97,97,102,104,75,98,96,101,128,126,127,95,90,105,93",
+                        "endOffsets": "402,496,577,673,769,877,959,1038,1118,1201,1299,1397,1500,1605,1681,1780,1877,1979,2108,2235,2363,2459,2550,2656,2750"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2126,2239,2333,2414,2510,2606,2714,3198,3277,3357,3440,3538,3636,3739,3844,3920,4019,4116,4218,4347,4474,4602,4698,4789,4895",
+                        "endColumns": "112,93,80,95,95,107,81,78,79,82,97,97,102,104,75,98,96,101,128,126,127,95,90,105,93",
+                        "endOffsets": "2234,2328,2409,2505,2601,2709,2791,3272,3352,3435,3533,3631,3734,3839,3915,4014,4111,4213,4342,4469,4597,4693,4784,4890,4984"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\a121c25c60263a8da1cc850df68a56ac\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "278,389,503,610,724,856,952,1052,1177,1286,1372",
+                        "endColumns": "110,113,106,113,131,95,99,124,108,85,92",
+                        "endOffsets": "384,498,605,719,851,947,1047,1172,1281,1367,1460"
+                    },
+                    "to": {
+                        "startLines": "70,71,72,73,74,75,76,77,78,79,80",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7993,8104,8218,8325,8439,8571,8667,8767,8892,9001,9087",
+                        "endColumns": "110,113,106,113,131,95,99,124,108,85,92",
+                        "endOffsets": "8099,8213,8320,8434,8566,8662,8762,8887,8996,9082,9175"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2e8ccad3646eb88a3eaafa38cd857d7d\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,489,601,687,792,907,984,1060,1142,1253,1356,1455,1566,1668,1775,1897,1999,2081",
+                        "endColumns": "104,107,122,97,111,85,104,114,76,75,81,110,102,98,110,101,106,121,101,81,100",
+                        "endOffsets": "155,263,386,484,596,682,787,902,979,1055,1137,1248,1351,1450,1561,1663,1770,1892,1994,2076,2177"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,83,84",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,318,441,539,651,737,842,957,1034,1110,1192,1303,1406,1505,1616,1718,1825,1947,9384,9466",
+                        "endColumns": "104,107,122,97,111,85,104,114,76,75,81,110,102,98,110,101,106,121,101,81,100",
+                        "endOffsets": "205,313,436,534,646,732,837,952,1029,1105,1187,1298,1401,1500,1611,1713,1820,1942,2044,9461,9562"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.2.0.aar\\c528db0f40c535109476cef6f1320890\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "334,472,629",
+                        "endColumns": "137,156,106",
+                        "endOffsets": "467,624,731"
+                    },
+                    "to": {
+                        "startLines": "29,30,31",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2796,2934,3091",
+                        "endColumns": "137,156,106",
+                        "endOffsets": "2929,3086,3193"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-lite-9.2.0.aar\\a0e3424c0e531b3c615228623496a8ba\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "280,357,492,597,672,814",
+                        "endColumns": "76,134,104,74,141,92",
+                        "endOffsets": "352,487,592,667,809,902"
+                    },
+                    "to": {
+                        "startLines": "21,67,68,69,85,86",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "2049,7678,7813,7918,9567,9709",
+                        "endColumns": "76,134,104,74,141,92",
+                        "endOffsets": "2121,7808,7913,7988,9704,9797"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.2.0.aar\\3fa5b9925fc7d3f20c659afadd19d67c\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "288",
+                        "endColumns": "108",
+                        "endOffsets": "392"
+                    },
+                    "to": {
+                        "startLines": "87",
+                        "startColumns": "4",
+                        "startOffsets": "9802",
+                        "endColumns": "108",
+                        "endOffsets": "9906"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.2.0.aar\\664ecf65d9e0aa6a07f3c89f427d1296\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "203",
+                        "endOffsets": "488"
+                    },
+                    "to": {
+                        "startLines": "57",
+                        "startColumns": "4",
+                        "startOffsets": "6058",
+                        "endColumns": "203",
+                        "endOffsets": "6257"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.2.0.aar\\465a10f5ceed369227757fb6ae16f25c\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,390,586,712,822,1059,1188,1332,1571,1681,1881,2010,2231,2433,2530,2619",
+                        "endColumns": "106,195,125,109,236,128,143,238,109,199,128,220,201,96,88,104",
+                        "endOffsets": "389,585,711,821,1058,1187,1331,1570,1680,1880,2009,2230,2432,2529,2618,2723"
+                    },
+                    "to": {
+                        "startLines": "50,51,52,53,54,55,56,58,59,60,61,62,63,64,65,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4989,5100,5296,5426,5540,5777,5910,6262,6501,6615,6815,6948,7169,7375,7476,7569",
+                        "endColumns": "110,195,129,113,236,132,147,238,113,199,132,220,205,100,92,108",
+                        "endOffsets": "5095,5291,5421,5535,5772,5905,6053,6496,6610,6810,6943,7164,7370,7471,7564,7673"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.2.0.aar\\ba21093da37cbfcaed12d54264c1e47a\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "281,390",
+                        "endColumns": "108,94",
+                        "endOffsets": "385,480"
+                    },
+                    "to": {
+                        "startLines": "81,82",
+                        "startColumns": "4,4",
+                        "startOffsets": "9180,9289",
+                        "endColumns": "108,94",
+                        "endOffsets": "9284,9379"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lenovo.angonaa.Activity.SettingsActivity"
+    android:orientation="vertical"
+    android:background="#4839">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical"
+    android:tag="NameLayout"
+    android:id="@+id/NameLayout"
+    android:background="#eccaff"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    >
+
+        <TextView
+            android:id="@+id/Nametext"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="30dp"
+            android:text="Change Name"
+            android:textColor="#000"
+            android:contextClickable="true"
+            android:onClick="NameClick"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:hint="Click to change name"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:tag="NumberLayout"
+        android:id="@+id/NumberLayout"
+        android:background="#E9B8FB"
+        android:layout_marginBottom="5dp"
+        >
+        <TextView
+            android:id="@+id/NumberText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Change Number"
+            android:textSize="20dp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:padding="30dp"
+            android:contextClickable="true"
+            android:onClick="NumberClick"
+            android:hint="Click to change number"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:tag="PasswordLayout"
+        android:id="@+id/PasswordLayout"
+        android:background="#eccaff"
+        android:layout_marginBottom="5dp"
+        >
+        <TextView
+            android:id="@+id/Passwordtext"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Change Password"
+            android:textSize="20dp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:padding="30dp"
+            android:contextClickable="true"
+            android:onClick="PasswordClick"
+            android:hint="Click to change password"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:tag="PreferencesLayout"
+        android:id="@+id/PreferencesLayout"
+        android:background="#E9B8FB"
+        >
+
+       <!-- <TextView
+            android:id="@+id/msgText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Change Message"
+            android:textSize="20dp"
+            android:textColor="#000"
+            android:padding="30dp"
+            android:textStyle="bold"
+            android:contextClickable="true"
+            android:onClick="MsgClick"
+            android:hint="Click to change message to be sent "
+
+            /> -->
+
+
+    </LinearLayout>
+
+</LinearLayout>

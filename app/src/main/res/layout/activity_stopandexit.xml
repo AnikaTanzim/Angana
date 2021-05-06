@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lenovo.angonaa.Activity.StopandexitActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/s4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/bg5"
+            android:scaleType="fitXY"
+            />
+
+        <TextView
+            android:padding="20dp"
+            android:id="@+id/s1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:text="অ্যাপ্লিকেশন থামাতে পাসওয়ার্ড লিখুন-\n"
+            />
+        <EditText
+            android:paddingLeft="20dp"
+            android:id="@+id/s2"
+            android:layout_below="@+id/s1"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:inputType="textWebPassword"
+            ></EditText>
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
